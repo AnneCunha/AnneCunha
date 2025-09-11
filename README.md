@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=200&section=header&text=Anne%20Cunha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8D1A2B&height=200&section=header&text=Anne%20Cunha&fontSize=40&fontColor=E9D8D4&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- Apresentação -->
-## Olá, eu sou a Anne!🙋🏻‍♀️  
+## Sobre mim  
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas<br>
 🎓 Formada pelo IFSP em Técnica Informática para Internet<br>
@@ -27,7 +27,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https:anne_cunha32) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anellise-cunha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anellisecunha123@hotmail.com) 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8D1A2B&height=120&section=footer"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
