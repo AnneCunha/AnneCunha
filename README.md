@@ -6,7 +6,7 @@
 <!-- Apresentação -->
 ## Sobre mim  
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas<br>
+💻 Análista e Desenvolvedora de Sistemas<br>
 🎓 Formada pelo IFSP em Técnica Informática para Internet<br>
 🎨 Apaixonada por design, prototipagem e criar experiências intuitivas<br> 
 ✨ Unindo criatividade + lógica para desenvolver projetos  
